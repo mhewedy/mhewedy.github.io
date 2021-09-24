@@ -6,14 +6,14 @@
 A confident, self-motivated software architect with more than 11 year of experience in software development and architecture. 
 A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills. +
  +
-icon:github[] *Contributed* to a number of Open Source projects including `Spring AMQP`, `Spring Data JPA`, `RabbitMQ Hop` and `castlemock`. +
+icon:github[] *Contributed* to a number of Open Source projects including https://github.com/spring-projects/spring-amqp/pulls?q=is%3Apr+author%3Amhewedy[`Spring AMQP`,role=external,window=_blank], https://github.com/spring-projects/spring-data-jpa/pulls?q=is%3Apr+author%3Amhewedy[`Spring Data JPA`,role=external,window=_blank], https://github.com/castlemock/castlemock/pulls?q=is%3Apr+author%3Amhewedy[`Castlemock`,role=external,window=_blank], and https://github.com/pulls?q=is%3Apr+author%3Amhewedy[others,role=external,window=_blank]. +
 Knowledge and experience in may programming Languages and ecosystems including `Java`, `Kotlin`, `Scala`, `Groovy`, `Golang`, `C`, `Objective-C`,
 `Ruby`, `JavaScript`, `TypeScript`, `C#` and others.
 
 .Contact Information
 ****
 [.text-center]
-|mhewedy@gmail.com
+mhewedy@gmail.com
 | https://mohewedy.medium.com/[Blog,role=external,window=_blank]
 | https://github.com/mhewedy[Github,role=external,window=_blank]
 | https://www.linkedin.com/in/mhewedy[Linkedin,role=external,window=_blank]
