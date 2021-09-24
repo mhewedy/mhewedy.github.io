@@ -3,10 +3,10 @@
 
 === Solutions Architect
 
-A confident, self-motivated software architect with more than 11 year of experience in software development and architecture. 
+A confident, self-motivated software architect with more than 11 year of experience in software Engineering and Architecture.
 A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills. +
  +
-icon:github[] *Contributed* to a number of Open Source projects including https://github.com/spring-projects/spring-amqp/pulls?q=is%3Apr+author%3Amhewedy[`Spring AMQP`,role=external,window=_blank], https://github.com/spring-projects/spring-data-jpa/pulls?q=is%3Apr+author%3Amhewedy[`Spring Data JPA`,role=external,window=_blank], https://github.com/castlemock/castlemock/pulls?q=is%3Apr+author%3Amhewedy[`Castlemock`,role=external,window=_blank], and https://github.com/pulls?q=is%3Apr+author%3Amhewedy[others,role=external,window=_blank]. +
+*Contributed* icon:github[] to a number of Open Source projects including https://github.com/spring-projects/spring-amqp/pulls?q=is%3Apr+author%3Amhewedy[`Spring AMQP`,role=external,window=_blank], https://github.com/spring-projects/spring-data-jpa/pulls?q=is%3Apr+author%3Amhewedy[`Spring Data JPA`,role=external,window=_blank], https://github.com/castlemock/castlemock/pulls?q=is%3Apr+author%3Amhewedy[`Castlemock`,role=external,window=_blank], and https://github.com/pulls?q=is%3Apr+author%3Amhewedy[others,role=external,window=_blank]. +
 Knowledge and experience in may programming Languages and ecosystems including `Java`, `Kotlin`, `Scala`, `Groovy`, `Golang`, `C`, `Objective-C`,
 `Ruby`, `JavaScript`, `TypeScript`, `C#` and others.
 
@@ -21,24 +21,37 @@ mhewedy@gmail.com
 
 === Work Experience
 
-==== Senior Software Engineer/Lead => Solutions Architect
+==== Senior Software Engineer/Tech Lead/Solutions Architect
 
 ===== AL ELM Information Security Company
+__Nov 2013 – Present +
+Riyadh, Saudi Arabia__
 
-==== Nov 2013 – Present
-
-==== Riyadh, Saudi Arabia
-
-* Elm Company is a Saudi Joint Stock Company owned by Saudi Public
+Elm Company is a Saudi Joint Stock Company owned by Saudi Public
 Investment Fund (PIF), it is specialized in providing secure electronic
 services, and has been in existence since 1988 as a technical research
-and development lab for the Saudi Ministry of Interior
-* Implementing government services while practicing agile methodology to
+and development lab for the Saudi Ministry of Interior. +
+Implementing government services while practicing agile methodology to
 achieve high velocity in delivery in multiple Projects over the past 8+
 years.
-* *Architecture and Presales Team (October 2019)*: +
+
+* *Tamm Platform (Position: Architect/Developer)*: +
+Participating in the design, architecture, and implementation of TAMM Platform (TAMM v2).
+Some achievements include::
+** Participated in the Tamm Revamp docs project.
+** Participated in establishing the software practices used by the team (PR, Code Review, etc...) to assure high quality for the produced software.
+** Participated in the Design and Architecture of the Tamm Platform.
+** Implemented a big part of the Common module that is the base module all Tamm business modules depend on.
+** Co-Designed and implemented of Async-Await concurrency framework on top of Java/Spring concurrency primitives.
+** Co-Designed and implemented spring-data-jpa-mongodb-expressions (opensourced)  library a library that converts MongoDB queries into SQL queries.
+** Created a Custom s2i builder image for jdk15 on top of the Openshift platform.
+** Deployment of Tamm Platform backend and frontend apps to the Openshift platform (dev environment).
+** Try applying best practices in DDD, TDD, and Clean Architecture
+
+* *Architecture and Presales Team*: +
 Working on the Technical presales team to design, document, architect,
 and price software solutions as a response to RFPs.
+
 * *Muqeem (muqeem.sa)/Premium Residency (saprc.gov.sa)* : +
 A portal to allow companies to managing activities for its Residents in
 saudi arabia with cooperation with Jawazat (General Directorate of
