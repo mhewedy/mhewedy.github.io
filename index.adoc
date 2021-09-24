@@ -1,6 +1,13 @@
 :icons: font
+:pdf-theme: index-theme.yml
 
+ifeval::["{backend}" == "html5"]
 == Mohammad Hewedy http://mhewedy.github.io/mhewedy_cv.pdf[icon:download[],role=external,window=_blank]
+endif::[]
+
+ifeval::["{backend}" == "pdf"]
+== Mohammad Hewedy
+endif::[]
 
 === Solutions Architect
 
