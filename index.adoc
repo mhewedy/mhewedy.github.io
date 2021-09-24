@@ -16,9 +16,9 @@ including `Java`, `Kotlin`, `Scala`, `Groovy`, `Golang`, `C`, `Objective-C`,
 
 ****
 mhewedy@gmail.com
-| https://medium.com/@mhewedy_46874/[medium blog,role=external,window=_blank]
-| https://github.com/mhewedy[github.com/mhewedy,role=external,window=_blank]
-| https://www.linkedin.com/in/mhewedy[linkedin.com/in/mhewedy,role=external,window=_blank]
+| https://mohewedy.medium.com/[Blog,role=external,window=_blank]
+| https://github.com/mhewedy[Github,role=external,window=_blank]
+| https://www.linkedin.com/in/mhewedy[Linkedin,role=external,window=_blank]
 ****
 
 === Work Experience
