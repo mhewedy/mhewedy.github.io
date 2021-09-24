@@ -38,13 +38,9 @@ mhewedy@gmail.com
 __Nov 2013 – Present +
 Riyadh, Saudi Arabia__
 
-Elm Company is a Saudi Joint Stock Company owned by Saudi Public
-Investment Fund (PIF), it is specialized in providing secure electronic
-services, and has been in existence since 1988 as a technical research
-and development lab for the Saudi Ministry of Interior. +
-Implementing government services while practicing agile methodology to
-achieve high velocity in delivery in multiple Projects over the past 8+
-years.
+Elm Company is a Saudi Joint Stock Company owned by Saudi Public Investment Fund (PIF), it is specialized in providing secure electronic
+services, and has been in existence since 1988 as a technical research and development lab for the Saudi Ministry of Interior. +
+Implementing government services while practicing agile methodology to achieve high velocity in delivery in multiple Projects over the past 8+ years.
 
 * *Tamm Platform*: +
 Participating in the design, architecture, and implementation of TAMM Platform (TAMM v2.0).
@@ -54,8 +50,8 @@ Participating in the design, architecture, and implementation of TAMM Platform (
 - Participated in the Tamm Revamp docs project. +
 - Participated in establishing the software practices used by the team (PR, Code Review, etc...) to assure high quality for the produced software. +
 - Participated in the Design and Architecture of the Tamm Platform. +
-- Co-Designed and implemented of Async-Await concurrency framework on top of Java/Spring concurrency primitives. +
-- Co-Designed and implemented https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[spring-data-jpa-mongodb-expressions,role=external,window=_blank] a library that converts MongoDB queries into SQL queries. +
+- Co-Designed and implemented of `async-await` concurrency framework on top of Java/Spring concurrency primitives. +
+- Co-Designed and implemented https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[`spring-data-jpa-mongodb-expressions`,role=external,window=_blank] a library that converts MongoDB queries into SQL. +
 - Created a custom s2i builder image for jdk15 on top of the __Openshift platform__. +
 - Applying best practices in DDD, TDD, and Clean Architecture +
 
@@ -63,65 +59,46 @@ Participating in the design, architecture, and implementation of TAMM Platform (
 Working on the Technical presales team to design, document, architect, and price software solutions as a response to RFPs.
 
 * *Muqeem (muqeem.sa)/Premium Residency (saprc.gov.sa)* : +
-A portal to allow companies to managing activities for its Residents in
-saudi arabia with cooperation with Jawazat (General Directorate of
-Passports). +
-We are building the next generation of Muqeem using Java, Spring Boot,
-Netflix SSO (eureka, zuul, hystrix, Ribbon etc… ), spring-amqp,
-RabbitMQ, Redis, Docker, Microservice architecture and wiremock/Castle
-Mock. +
-+
-__Using:__ Java 8, Kotlin, Spring Boot (Using JHipster microservice), JWT,
-Quartz, JPA, RabbitMQ, Redis, SQL Server, Unit & Integration testing,
-Docker and using atlassian stack.
+A portal to allow companies to managing activities for its Residents in saudi arabia with cooperation with Jawazat (General Directorate of Passports). +
+We are building the next generation of Muqeem using __Microservice architecture__ and `Java`, `Spring Boot`, `Netflix SSO` (`eureka`, `zuul`, `hystrix`, `Ribbon` etc… ), `spring-amqp`,
+`RabbitMQ`, `Redis`, `Docker`, and `wiremock`/`Castlemock`. +
+
 * *Marine*: +
-A portal for Public Transport Authority (PTA), it is used to give
-permission and register activities related to the Marine section in PTA,
-My role mainly to integrate with Companies Billing System and PTA
-billing System. +
-+
-_Using:_ Java 8, Spring Boot (with Spring Data JPA, Security, REST),
-Hibernate, SQL Server, Apache Tomcat 8 in the backend to expose the app
-as a secured API, Angular 4 in the frontend and IBM RTC for
-software-related aspects.
+A portal for Public Transport Authority (PTA), it is used to give permission and register activities related to the Marine section in PTA,
+My role mainly to integrate with Companies Billing System and PTA billing System. +
+
 * *Mojaz* (https://mojaz.com.sa): +
 A Portal that allows public users to query about car history (including
 accident history) and print a full report about it, My role mainly to
 integrate with Companies Billing System and PTA billing System. +
-+
-_Using:_ Java 8, Spring Boot (Spring Data JPA, Security, REST), Hibernate,
-SQL Server, Apache Tomcat 8 in the backend to expose the app as a secure
-API, AngularJS 1.x in the frontend and IBM RTC for software-related
-aspects.
+
 * *ETV* (https://etv.com.sa): +
 A portal for Saudi Commission for Tourism & National Heritage (SCTH),
 that allows Umrah visa holder to do tourism activities after finishing
 the Umrah program by changing the sponsor. (many integrations with NIC,
 Sejel is being included) +
-+
-_Using:_ Java 8, Spring framework (Security, Data JPA, REST), Hibernate,
-SQL Server, Apache Tomcat 8 in the backend to expose the app as a secure
-API, AngularJS in the frontend, Rational Team Concert for SCM and
-OpenShift (as a PoC); in a team of 3 Developers.
+
 * *Basher* (https://basher.sa): +
 Bashir is a compound project, consists of a mobile app that connects to
 REST service and a Portal to manage users, reports, statistics and other
 aspects. +
-+
-_Using:_ Spring framework, (Core, Security, Data JPA), Hibernate,
-PrimeFaces 5.1 (JSF 2.2), Apache Tomcat 8, JBOSS 7.1 and MS SQL
-Server. +
-I worked as the developer responsible for the project working with 1
-Senior developer and 2 Junior Developers, working directly with SA, BA,
-QA and PM.
+
 * *TAMM* (https://www1.tamm.net.sa/): +
 TAMM is the project and group of services used by multiple user roles
 (Car Agencies, Show rooms, etc.) to connect theses users with the Saudi
 Arabia NIC, I am working on adding new features and maintaining the old
-features. +
-+
+features.
+
+.Technologies used including:
+`Java` (up to jdk15), `Kotlin`, `Spring framework`, `Spring Boot`, `Spring Cloud`, `Netflix OSS`, `Hibernate`, `PrimeFaces`,
+`Angularjs`, `Angular`, `Redis`, `RabbitMQ`, `Apache Tomcat`, `JBoss AS 7.x`, `KeyCloak (IdM)`, `3Scale`, `Openshift`, `SQL Server`,
+Atlassian stack (`Bitbucket`, `JIRA`, `Bamboo`), `Jenkins` and `IBM RTC`.
+
+////
 _Using:_ JSF 1.2/EJB 3.1, CDI, SOAP and REST services, JWT, JBOSS EAP 6.1
 and MS SQL Server.
+////
+
 
 ==== Software Engineer / Team Leader
 ===== SiliconExpert Technologies - an Arrow Electronics Company
@@ -134,16 +111,16 @@ management. Customers are: Avago, Exar, Avnet, Arrow, RS, NASA, Dell,
 Rockwell, and Toshiba.
 * I am working directory with our BA to analyze customer requirements
 and find rapid solutions for customers continuously requests.
-* Develop solutions using EJB3.0, JPA, Servlets, JSPs, Custom tags,
-Filters, XML, JAX-WS, Apache Axis, GWT, JSON, JAX-WS, JavaScript, Apache
-Lucene, Apache Solr, Android SDK, iOS, Oracle DB, Oracle App Server,
-tomcat, Spring-jms, git-scm, intellij idea, Eclipse, JIRA, Jenkins and
-YouTrack
+* Develop solutions using `EJB3.0`, `JPA`, `Servlets`, `JSPs`, Custom tags,
+Filters, `XML`, `JAX-WS`, `Apache Axis`, `GWT`, `JSON`, `JAX-WS`, `Javascript`, `Apache
+Lucene`, `Apache Solr`, `Android SDK`, `iOS`, `Oracle DB`, `Oracle App Server`,
+`tomcat`, `Spring-jms`, `git`, `Intellij IDEA`, `Eclipse`, `JIRA`, `Jenkins` and
+`YouTrack`.
 * *Build JMS Client to consume logs*: +
-Use Spring JMS to write a log listener to write logs of one of our
-services into Apache Flume
+Use Spring `JMS` to write a log listener to write logs of one of our
+services into `Apache Flume`.
 * *Modifying Spark (XMPP client)*: +
-Spark is an Open Source, cross-platform Jabber (XMPP) client optimized
+Spark is an Open Source, cross-platform Jabber (`XMPP`) client optimized
 for businesses and organizations. I was responsible for modifying the
 app and deliver a windows installation package using install4j/IzPack.
 * *Arrow Mobile App*: +
@@ -198,8 +175,8 @@ electronic payment and risk management services
 * Responsible for Design and implement ePayment Solutions
 * Worked with payment services like, Auth, Bill, Credit, Refund, many of
 PayPal Services and others
-* Develop solutions using Java, C, Servlets, XML, XSLT, XPath, JPos,
-JBoss, Linux, Rational ClearCase and AccuRev
+* Develop solutions using `Java`, `C`, `Servlets`, `XML`, `XSLT`, `XPath`, `JPos`,
+`JBoss`, `Linux`, `Rational ClearCase` and `AccuRev`.
 * Fixed Major encoding issue in China PayEase gateway simulator
 * Worked on many PayPal bug fixes. (PayPal EC and Button create service)
 * Worked on bug fixes for other Payment gateways as well including
@@ -223,82 +200,78 @@ Grade: Very Good
 
 === Certifications
 
-* AWS Certified Solutions Architect – Associate +
+[cols="1,1"]
+|===
+|AWS Certified Solutions Architect – Associate +
 Amazon Web Services +
 Aug 2020 +
 License: https://www.youracclaim.com/earner/earned/badge/21186f30-79f4-4847-a24f-7ff412fba9a6[SAA,role=external,window=_blank]
-
-* Certified Kubernetes Application Developer +
+|Certified Kubernetes Application Developer +
 The Linux Foundation +
 Jun 2020 +
 License: https://www.youracclaim.com/earner/earned/badge/683c4334-5a5a-49d0-a504-c8e0a4c38ddb[CKAD-2000-004804-0100,role=external,window=_blank]
 
-* TOGAF® 9 Certified +
+|TOGAF® 9 Certified +
 The Open Group +
 Jan 2020 +
 License: https://www.youracclaim.com/earner/earned/badge/7af28728-587f-414b-9d4e-78e7b482053d[140538,role=external,window=_blank]
-
-* TOGAF® 9 Foundation +
+|TOGAF® 9 Foundation +
 The Open Group +
 Nov 2019 +
 License: https://www.youracclaim.com/badges/22a781dc-0fd1-4ff4-a993-e73ac26b0d1c[603233,role=external,role=external,window=_blank]
 
-* DevOps Leader +
+|DevOps Leader +
 DevOps Institute +
 April 2019 +
 License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488F36E43DE366E21DF84231033CCDFC0C82555E22A673DBAD92E203FF0F295DD9B8A056C74C4E6D23210B928029D152E5AD19DF8AD9DBB64C4EFD2FA32BBB74F764A15AE7679DDEEF79E82386D9FD5E2D9BE581F62584022929561312F597F9C48D27BC45A34055AE951DFCAF3CE299124[GR685000296MH,role=external,window=_blank]
-
-* DevOps Foundation +
+|DevOps Foundation +
 DevOps Institute +
 April 2019 +
 License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488454B1CB3A1503C35E4BC2233857AB968A8A3436A51EF3469B041D8B5817C643AA84F59C3CD2FF88C13B782A74405CBC8F90BF0F5E88A206EF9EB2DD37855BD97A7CD71A863C5C6BBE5F61CB8D57416E4142534DF42A4B7CA39E6C656EC3AFA4C394863FD2E88E133CA55990EBE2A6B2D[GR797009838MH,role=external,window=_blank]
+|===
 
 === Skills
 
-* Good understanding of OOP & Functional style programming
-* Behavior / Test Driven Development - Unit, Integration, System Testing
-* Agile Methodologies - Scrum, Kanban
-* Good understanding of type theory and the programming paradigm
-* Good knowledge about JVM echo system (`Kotlin`, `Groovy`, and `Scala`)
-* Good knowledge about other languages as well (`C`, `Objective-C`, `Ruby`, `RoR`, `Golang`, and `Nodejs`)
-* Background knowledge in other languages as well (`C#`, `VB.net`, `C++`, `PL-SQL`)
-* Good knowledge in Linux Configuration & shell scripting
-* Java (Threading, Networking, JDBC, RMI, JPA)
-* Basic understanding of the some compilers architecture, e.g. `GCC`, `LLVM`, `GraalVM` and others
+* Good understanding of OOP & Functional style programming.
+* Behavior / Test Driven Development - Unit, Integration, System Testing.
+* Agile Methodologies - Scrum, Kanban.
+* Good understanding of type theory and the programming paradigm.
+* Good knowledge about JVM echo system (`Kotlin`, `Groovy`, and `Scala`).
+* Good knowledge about other languages as well (`C`, `Objective-C`, `Ruby`, `RoR`, `Golang`, and `Nodejs`).
+* Background knowledge in other languages as well (`C#`, `VB.net`, `C++`, `PL-SQL`).
+* Good knowledge in Linux Configuration & shell scripting.
+* Java (Threading, Networking, JDBC, RMI, JPA).
+* Basic understanding of the some compilers architecture, e.g. `GCC`, `LLVM`, `GraalVM` and others.
 * Web (JSP&Servlets, Struts, JSF, Freemarker, MVC, Front-Controller, etc).
 * Distributed Programming (App Servers, EJB and JNDI) and messaging (`RabbitMQ`, `JMS`, `Apache Camel`).
-* A good background in Web Services (SOAP-based and RESTful) and XML (SAX, DOM, XSLT, XPath)
+* A good background in Web Services (SOAP-based and RESTful) and XML (SAX, DOM, XSLT, XPath).
 * Good knowledge about the internals of Spring framework, Hibernate, Spring Security, Spring Data (JPA, Mongo), Spring Boot and Spring AMQP.
-* Experience Mobile Programming (Android /iPhone)
-* Experience with full-Stack Web Development (`Angular`, `Vue.js`, `Mustache.js`, and others)
-* Good understand parallelism and concurrency and related patterns (e.g. CSP) and its implementations in golang and kotlin
-* Basic knowledge Linux programming (`syscalls`, `strace`, LKM, LSM, filesystems, namespaces and others)
-* Basic understanding of the different storage types (object, block, file) and its use cases
-* Basic understanding Hypervisors and containerization (the theory and practices)
-* Good understanding of RDBMS, NoSQL databases, Big Data and Database Sharding techniques
-* Basic knowledge about NoSQL solutions such as Cassandra and Couchbase
-* Basic understanding of Data Engineering processes
-* Experience with Searching solutions (`Apache Lucene/Solr`)
-* Familiarity with Big Data and Stream processing solutions such as `Apache Hadoop`, `Hive`, `Pig`, and `Apache Spark`
-* Experience in RDBMS and ORM - `Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`
-* Experience in NoSQL - MongoDB
+* Experience Mobile Programming (Android /iPhone).
+* Experience with full-Stack Web Development (`Angular`, `Vue.js`, `Mustache.js`, and others).
+* Good understand parallelism and concurrency and related patterns (e.g. CSP) and its implementations in golang and kotlin.
+* Basic knowledge Linux programming (`syscalls`, `strace`, LKM, LSM, filesystems, namespaces and others).
+* Basic understanding of the different storage types (object, block, file) and its use cases.
+* Basic understanding Hypervisors and containerization (the theory and practices).
+* Good understanding of RDBMS, NoSQL databases, Big Data and Database Sharding techniques.
+* Basic knowledge about NoSQL solutions such as Apache `Cassandra` and `Couchbase`.
+* Basic understanding of Data Engineering processes.
+* Experience with Searching solutions (`Apache Lucene/Solr`).
+* Familiarity with Big Data and Stream processing solutions such as `Apache Hadoop`, `Hive`, `Pig`, and `Apache Spark`.
+* Experience in RDBMS and ORM - `Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`.
+* Experience in NoSQL - `MongoDB`.
 * Basic understanding of ISO 8601, Unicode and other related standards.
 * Basic understanding of OSI model and related protocols (`TCP`, `UDP`, `DNS`, `ARP`, `FTP`, `SSH`, `TLS`), and basic knowledge about networking tools like iptables, iproute2, wireshark, tcpdump, and more.
 * Good understanding of digital cryptography.
-* Good understanding of ESB, EAI, Queues, BPM, and related enterprise solutions and patterns
-* Hands-on experience in Jenkins, Bitbucket pipelines, Docker, Docker Compose, Kubernetes, GCP and AWS.
+* Good understanding of ESB, EAI, Queues, BPM, and related enterprise solutions and patterns`
+* Hands-on experience in `Jenkins`, `Bitbucket` pipelines, `Docker`, `Docker Compose`, `Kubernetes`, `GCP` and `AWS`.
 * Basic knowledge about Machine Learning
 
-=== Trainings
-
-* Openshift Workshop
-* Identity and Access management
-* Functional Programming Principles in Scala (Coursera online)
-* Develop iOS apps using Swift
-* AngularJS 2
-* Securing Java Applications
-* Agile Software methodology
-* Developing for the Liferay Platform 1
+=== Technical Reviews
+-   Technical reviewer for
+https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/[“Certified Kubernetes Application Developer (CKAD) Study Guide”,role=external,window=_blank]
+book from O’Reilly. +
++
+image::https://learning.oreilly.com/library/cover/9781492083726/250w/[ckad study guide,150,100]
 
 === Open Source Projects icon:github[]
 
