@@ -1,0 +1,330 @@
+:icons: font
+== Mohammad Hewedy
+
+=== Solutions Architect
+
+A confident, self-motivated software architect with more than 11 years
+of experience in software development and architecture. A deep
+researcher and a passionate learner in every aspect of his life, with
+good analytical and verbal skills. +
+ +
+Contributed to a number of Open Source projects including Spring AMQP,
+Spring Data JPA, RabbitMQ Hop and castlemock. +
+Knowlege and experience in may programming Languages and ecosystems
+including Java, Kotlin, Scala, Groovy, Golang, C, Objective-C,
+Ruby(Rails, Sinatra), JavaScript, TypeScript, C# and others (see github)
+
+****
+mhewedy@gmail.com
+| https://medium.com/@mhewedy_46874/[medium blog,role=external,window=_blank]
+| https://github.com/mhewedy[github.com/mhewedy,role=external,window=_blank]
+| https://www.linkedin.com/in/mhewedy[linkedin.com/in/mhewedy,role=external,window=_blank]
+****
+
+=== Work Experience
+
+==== Senior Software Engineer/Lead => Solutions Architect
+
+===== AL ELM Information Security Company
+
+==== Nov 2013 – Present
+
+==== Riyadh, Saudi Arabia
+
+* Elm Company is a Saudi Joint Stock Company owned by Saudi Public
+Investment Fund (PIF), it is specialized in providing secure electronic
+services, and has been in existence since 1988 as a technical research
+and development lab for the Saudi Ministry of Interior
+* Implementing government services while practicing agile methodology to
+achieve high velocity in delivery in multiple Projects over the past 8+
+years.
+* *Architecture and Presales Team (October 2019)*: +
+Working on the Technical presales team to design, document, architect,
+and price software solutions as a response to RFPs.
+* *Muqeem (muqeem.sa)/Premium Residency (saprc.gov.sa)* : +
+A portal to allow companies to managing activities for its Residents in
+saudi arabia with cooperation with Jawazat (General Directorate of
+Passports). +
+We are building the next generation of Muqeem using Java, Spring Boot,
+Netflix SSO (eureka, zuul, hystrix, Ribbon etc… ), spring-amqp,
+RabbitMQ, Redis, Docker, Microservice architecture and wiremock/Castle
+Mock. +
+__Using:__ Java 8, Kotlin, Spring Boot (Using JHipster microservice), JWT,
+Quartz, JPA, RabbitMQ, Redis, SQL Server, Unit & Integration testing,
+Docker and using atlassian stack.
+* *Marine*: +
+A portal for Public Transport Authority (PTA), it is used to give
+permission and register activities related to the Marine section in PTA,
+My role mainly to integrate with Companies Billing System and PTA
+billing System. +
+_Using:_ Java 8, Spring Boot (with Spring Data JPA, Security, REST),
+Hibernate, SQL Server, Apache Tomcat 8 in the backend to expose the app
+as a secured API, Angular 4 in the frontend and IBM RTC for
+software-related aspects.
+* *Mojaz* (https://mojaz.com.sa): +
+A Portal that allows public users to query about car history (including
+accident history) and print a full report about it, My role mainly to
+integrate with Companies Billing System and PTA billing System. +
+_Using:_ Java 8, Spring Boot (Spring Data JPA, Security, REST), Hibernate,
+SQL Server, Apache Tomcat 8 in the backend to expose the app as a secure
+API, AngularJS 1.x in the frontend and IBM RTC for software-related
+aspects.
+* *ETV* (https://etv.com.sa): +
+A portal for Saudi Commission for Tourism & National Heritage (SCTH),
+that allows Umrah visa holder to do tourism activities after finishing
+the Umrah program by changing the sponsor. (many integrations with NIC,
+Sejel is being included) +
+_Using:_ Java 8, Spring framework (Security, Data JPA, REST), Hibernate,
+SQL Server, Apache Tomcat 8 in the backend to expose the app as a secure
+API, AngularJS in the frontend, Rational Team Concert for SCM and
+OpenShift (as a PoC); in a team of 3 Developers.
+* *Basher* (https://basher.sa): +
+Bashir is a compound project, consists of a mobile app that connects to
+REST service and a Portal to manage users, reports, statistics and other
+aspects. +
+_Using:_ Spring framework, (Core, Security, Data JPA), Hibernate,
+PrimeFaces 5.1 (JSF 2.2), Apache Tomcat 8, JBOSS 7.1 and MS SQL
+Server. +
+I worked as the developer responsible for the project working with 1
+Senior developer and 2 Junior Developers, working directly with SA, BA,
+QA and PM.
+* *TAMM* (https://www1.tamm.net.sa/): +
+TAMM is the project and group of services used by multiple user roles
+(Car Agencies, Show rooms, etc.) to connect theses users with the Saudi
+Arabia NIC, I am working on adding new features and maintaining the old
+features. +
+_Using:_ JSF 1.2/EJB 3.1, CDI, SOAP and REST services, JWT, JBOSS EAP 6.1
+and MS SQL Server.
+
+==== Senior Software Engineer => Team Leader
+
+===== SiliconExpert Technologies - an Arrow Electronics Company
+
+==== Nov 2010 – Nov 2013
+
+==== Cairo, Egypt
+
+* Headquartered in Santa Clara, is a leading supplier and innovator of
+best-in-class products and services for enterprise-wide electronic parts
+management. Customers are: Avago, Exar, Avnet, Arrow, RS, NASA, Dell,
+Rockwell, and Toshiba.
+* I am working directory with our BA to analyze customer requirements
+and find rapid solutions for customers continuously requests.
+* Develop solutions using EJB3.0, JPA, Servlets, JSPs, Custom tags,
+Filters, XML, JAX-WS, Apache Axis, GWT, JSON, JAX-WS, JavaScript, Apache
+Lucene, Apache Solr, Android SDK, iOS, Oracle DB, Oracle App Server,
+tomcat, Spring-jms, git-scm, intellij idea, Eclipse, JIRA, Jenkins and
+YouTrack
+* *Build JMS Client to consume logs*: +
+Use Spring JMS to write a log listener to write logs of one of our
+services into Apache Flume
+* *Modifying Spark (XMPP client)*: +
+Spark is an Open Source, cross-platform Jabber (XMPP) client optimized
+for businesses and organizations. I was responsible for modifying the
+app and deliver a windows installation package using install4j/IzPack.
+* *Arrow Mobile App*: +
+Arrow inc. www.arrow.com is the company that acquired SiliconExpert. +
+I am acting as a project leader to provide Arrow inc with iOS and
+Android Mobile Apps. +
+We are building native mobile apps and building a JSON aggregator
+Service to call existing modules and provide the functionality for the
+mobile apps. +
+[https://itunes.apple.com/us/app/arrow-electronics/id792340251]
+[https://play.google.com/store/apps/details?id=com.arrow.android]
+* *SiliconExpert Mobile App*: +
+Building the Company’s iPhone/Android Mobile Application front end and
+build a JSON Service backed by an EJB module connecting to Oracle DB. +
+[https://itunes.apple.com/us/app/siliconexpert-part-search/id633913855?ls=1&mt=8]
+* *Avago PartFinder Project*: +
+Integration of some of our services into customer's website through a
+Widget that is hosted on our domain and deployed into the customer's Web
+App. The work includes running cross-site JavaScript (Same-origin
+policy) and many other challenges to make it work on Almost all browsers
+starting from IE6.0. +
+[http://partfinder.avagotech.com/Avago/AvagoWidget.html]
+* *Avago PartFinder Mobile (iPhone/Android)*: +
+Converting Avago Application into a Mobile Application(Android and iOS).
+The work included converts the Business layer into JSON Services using a
+custom home-build framework and then consume the JSON services using
+Mobile Apps. +
+[http://itunes.apple.com/us/app/avago-partfinder/id478409707?mt=8]
+[https://market.android.com/details?id=com.avago.android]
+* *Exar Project*: +
+ntegration of some of our services into customer's website.
+[http://app.siliconexpert.com/Exar]
+* *MainSearch*: +
+A Lucene Manager tool; a tool with a Web-based interface to allow users
+to search/create/edit/delete indexes.
+[http://demo.siliconexpert.com/MainSearch/]
+* *Design Center*: +
+Web Application for Electronic Engineers to search for reference designs
+and other staff they need in designing Electronic Circuits. +
+The work includes investigating on the issue of Search engine
+optimization (SEO) and crawling for Ajax Applications.
+* Worked on securing companies web services (using HTTPS) and writing
+clients to consume these web services
+
+==== Software Engineer
+
+===== CyberSource a VISA Company
+
+==== April 2009 – Nov 2010
+
+==== Cairo, Egypt
+
+* Headquartered in Mountain View, California, is a leading provider of
+electronic payment and risk management services
+* Responsible for Design and implement ePayment Solutions
+* Worked with payment services like, Auth, Bill, Credit, Refund, many of
+PayPal Services and others
+* Develop solutions using Java, C, Servlets, XML, XSLT, XPath, JPos,
+JBoss, Linux, Rational ClearCase and AccuRev
+* Fixed Major encoding issue in China PayEase gateway simulator
+* Worked on many PayPal bug fixes. (PayPal EC and Button create service)
+* Worked on bug fixes for other Payment gateways as well including
+Paymentech and APACS30 gateways
+
+==== Software Engineer
+
+===== ElRowad
+
+==== Jan 2009 – April 2009
+
+==== Cairo, Egypt
+
+* Responsible for the Design and Implementation of company's own Stock
+Management software
+
+=== Education
+
+==== B.S. Computers and Information
+Helwan University, Cairo Egypt +
+Sept 2007
+
+Grade: Very Good
+
+=== Certifications
+
+* AWS Certified Solutions Architect – Associate +
+Amazon Web Services +
+Aug 2020 +
+License: https://www.youracclaim.com/earner/earned/badge/21186f30-79f4-4847-a24f-7ff412fba9a6[SAA,role=external,window=_blank]
+
+* Certified Kubernetes Application Developer +
+The Linux Foundation +
+Jun 2020 +
+License: https://www.youracclaim.com/earner/earned/badge/683c4334-5a5a-49d0-a504-c8e0a4c38ddb[CKAD-2000-004804-0100,role=external,window=_blank]
+
+* TOGAF® 9 Certified +
+The Open Group +
+Jan 2020 +
+License: https://www.youracclaim.com/earner/earned/badge/7af28728-587f-414b-9d4e-78e7b482053d[140538,role=external,window=_blank]
+
+* TOGAF® 9 Foundation +
+The Open Group +
+Nov 2019 +
+License: https://www.youracclaim.com/badges/22a781dc-0fd1-4ff4-a993-e73ac26b0d1c[603233,role=external,role=external,window=_blank]
+
+* DevOps Leader +
+DevOps Institute +
+April 2019 +
+License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488F36E43DE366E21DF84231033CCDFC0C82555E22A673DBAD92E203FF0F295DD9B8A056C74C4E6D23210B928029D152E5AD19DF8AD9DBB64C4EFD2FA32BBB74F764A15AE7679DDEEF79E82386D9FD5E2D9BE581F62584022929561312F597F9C48D27BC45A34055AE951DFCAF3CE299124[GR685000296MH,role=external,window=_blank]
+
+* DevOps Foundation +
+DevOps Institute +
+April 2019 +
+License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488454B1CB3A1503C35E4BC2233857AB968A8A3436A51EF3469B041D8B5817C643AA84F59C3CD2FF88C13B782A74405CBC8F90BF0F5E88A206EF9EB2DD37855BD97A7CD71A863C5C6BBE5F61CB8D57416E4142534DF42A4B7CA39E6C656EC3AFA4C394863FD2E88E133CA55990EBE2A6B2D[GR797009838MH,role=external,window=_blank]
+
+=== Skills
+
+* Good understanding of OOP & Functional style programming
+* Behavior / Test Driven Development - Unit, Integration, System Testing
+* Agile Methodologies - Scrum, Kanban
+* Good understanding of type theory and the programming paradigm
+* Good knowledge about JVM echo system (`Kotlin`, `Groovy`, and `Scala`)
+* Good knowledge about other languages as well (`C`, `Objective-C`, `Ruby`, `RoR`, `Golang`, and `Nodejs`)
+* Background knowledge in other languages as well (`C#`, `VB.net`, `C++`, `PL-SQL`)
+* Good knowledge in Linux Configuration & shell scripting
+* Java (Threading, Networking, JDBC, RMI, JPA)
+* Basic understanding of the some compilers architecture, e.g. `GCC`, `LLVM`, `GraalVM` and others
+* Web (JSP&Servlets, Struts, JSF, Freemarker, MVC, Front-Controller, etc).
+* Distributed Programming (App Servers, EJB and JNDI) and messaging (`RabbitMQ`, `JMS`, `Apache Camel`).
+* A good background in Web Services (SOAP-based and RESTful) and XML (SAX, DOM, XSLT, XPath)
+* Good knowledge about the internals of Spring framework, Hibernate, Spring Security, Spring Data (JPA, Mongo), Spring Boot and Spring AMQP.
+* Experience Mobile Programming (Android /iPhone)
+* Experience with full-Stack Web Development (`Angular`, `Vue.js`, `Mustache.js`, and others)
+* Good understand parallelism and concurrency and related patterns (e.g. CSP) and its implementations in golang and kotlin
+* Basic knowledge Linux programming (`syscalls`, `strace`, LKM, LSM, filesystems, namespaces and others)
+* Basic understanding of the different storage types (object, block, file) and its use cases
+* Basic understanding Hypervisors and containerization (the theory and practices)
+* Good understanding of RDBMS, NoSQL databases, Big Data and Database Sharding techniques
+* Basic knowledge about NoSQL solutions such as Cassandra and Couchbase
+* Basic understanding of Data Engineering processes
+* Experience with Searching solutions (`Apache Lucene/Solr`)
+* Familiarity with Big Data and Stream processing solutions such as `Apache Hadoop`, `Hive`, `Pig`, and `Apache Spark`
+* Experience in RDBMS and ORM - `Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`
+* Experience in NoSQL - MongoDB
+* Basic understanding of ISO 8601, Unicode and other related standards.
+* Basic understanding of OSI model and related protocols (`TCP`, `UDP`, `DNS`, `ARP`, `FTP`, `SSH`, `TLS`), and basic knowledge about networking tools like iptables, iproute2, wireshark, tcpdump, and more.
+* Good understanding of digital cryptography.
+* Good understanding of ESB, EAI, Queues, BPM, and related enterprise solutions and patterns
+* Hands-on experience in Jenkins, Bitbucket pipelines, Docker, Docker Compose, Kubernetes, GCP and AWS.
+* Basic knowledge about Machine Learning
+
+=== Trainings
+
+* Openshift Workshop
+* Identity and Access management
+* Functional Programming Principles in Scala (Coursera online)
+* Develop iOS apps using Swift
+* AngularJS 2
+* Securing Java Applications
+* Agile Software methodology
+* Developing for the Liferay Platform 1
+
+=== Open Source Projects icon:github[]
+
+* https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[Spring Data JPA MongoDB Expressions icon:github[],role=external,window=_blank]
+Allows you to use the MongoDB query syntax to query your relational database.
+
+* https://github.com/ci-pipeline/ci-pipeline[ci-pipeline icon:github[],role=external,window=_blank]
+Opinionated Jenkins Pipeline in YAML
+
+* https://github.com/mhewedy/vermin[vermin icon:github[],role=external,window=_blank]
+The smart virtual machines manager.
+
+* https://github.com/mhewedy/SBO-video-extension[SBO-video-extension icon:github[],role=external,window=_blank]
+Safari Books Online Video Downloder Extension to Google Chrome.
+
+* https://github.com/mhewedy/spwrap[spwrap icon:github[],role=external,window=_blank]
+Simple Stored Procedure call wrapper with no framework dependencies.
+
+* https://github.com/mhewedy/ews[ews icon:github[],role=external,window=_blank]
+Go package wrapper for Exchange Web Service (EWS)
+
+* https://github.com/mhewedy/gitblame[gitblame icon:github[],role=external,window=_blank]
+Simple Web Application to show each member in team work in a web-based
+interface
+
+* https://github.com/mhewedy/aqarme[aqarme icon:github[],role=external,window=_blank]
+Service to query https://sa.aqar.fm/ for certain criteria and notifies
+me back by Facebook messenger on the list of apartments that matches my
+criteria.
+
+* https://github.com/mhewedy/mego[mego icon:github[],role=external,window=_blank]
+The MS Exchange meeting organizer
+
+==== Volunteering Experience
+
+==== Riyadh Java Meetup (Founder)
+April 2019 – Present +
+Riyadh, Saudi Arabia
+
+* The Riyadh Java Meetup is a meetup concerted about Java and the JVM,
+with the main focus is on Spring framework and spring boot.
+
+=== Languages
+
+* *Arabic* - Native
+* *English* - Professional working proficiency
+
