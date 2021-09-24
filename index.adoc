@@ -6,7 +6,11 @@
 A confident, self-motivated software architect with more than 11 year of experience in software Engineering and Architecture.
 A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills. +
  +
-*Contributed* icon:github[] to a number of Open Source projects including https://github.com/spring-projects/spring-amqp/pulls?q=is%3Apr+author%3Amhewedy[`Spring AMQP`,role=external,window=_blank], https://github.com/spring-projects/spring-data-jpa/pulls?q=is%3Apr+author%3Amhewedy[`Spring Data JPA`,role=external,window=_blank], https://github.com/castlemock/castlemock/pulls?q=is%3Apr+author%3Amhewedy[`Castlemock`,role=external,window=_blank], and https://github.com/pulls?q=is%3Apr+author%3Amhewedy[others,role=external,window=_blank]. +
+*Contributed* icon:github[] to a number of Open Source projects including
+https://github.com/spring-projects/spring-amqp/pulls?q=is%3Apr+author%3Amhewedy[`Spring AMQP`,role=external,window=_blank],
+https://github.com/spring-projects/spring-data-jpa/pulls?q=is%3Apr+author%3Amhewedy[`Spring Data JPA`,role=external,window=_blank],
+https://github.com/castlemock/castlemock/pulls?q=is%3Apr+author%3Amhewedy[`Castlemock`,role=external,window=_blank],
+and https://github.com/pulls?q=is%3Apr+author%3Amhewedy[others,role=external,window=_blank]. +
 Knowledge and experience in may programming Languages and ecosystems including `Java`, `Kotlin`, `Scala`, `Groovy`, `Golang`, `C`, `Objective-C`,
 `Ruby`, `JavaScript`, `TypeScript`, `C#` and others.
 
@@ -21,8 +25,7 @@ mhewedy@gmail.com
 
 === Work Experience
 
-==== Senior Software Engineer/Tech Lead/Solutions Architect
-
+==== Software Engineer / Lead / Solutions Architect
 ===== AL ELM Information Security Company
 __Nov 2013 – Present +
 Riyadh, Saudi Arabia__
@@ -35,22 +38,21 @@ Implementing government services while practicing agile methodology to
 achieve high velocity in delivery in multiple Projects over the past 8+
 years.
 
-* *Tamm Platform (Position: Architect/Developer)*: +
-Participating in the design, architecture, and implementation of TAMM Platform (TAMM v2).
-Some achievements include::
-** Participated in the Tamm Revamp docs project.
-** Participated in establishing the software practices used by the team (PR, Code Review, etc...) to assure high quality for the produced software.
-** Participated in the Design and Architecture of the Tamm Platform.
-** Implemented a big part of the Common module that is the base module all Tamm business modules depend on.
-** Co-Designed and implemented of Async-Await concurrency framework on top of Java/Spring concurrency primitives.
-** Co-Designed and implemented spring-data-jpa-mongodb-expressions (opensourced)  library a library that converts MongoDB queries into SQL queries.
-** Created a Custom s2i builder image for jdk15 on top of the Openshift platform.
-** Deployment of Tamm Platform backend and frontend apps to the Openshift platform (dev environment).
-** Try applying best practices in DDD, TDD, and Clean Architecture
+* *Tamm Platform*: +
+Participating in the design, architecture, and implementation of TAMM Platform (TAMM v2.0).
++
+.Some achievements include
+[square]
+- Participated in the Tamm Revamp docs project. +
+- Participated in establishing the software practices used by the team (PR, Code Review, etc...) to assure high quality for the produced software. +
+- Participated in the Design and Architecture of the Tamm Platform. +
+- Co-Designed and implemented of Async-Await concurrency framework on top of Java/Spring concurrency primitives. +
+- Co-Designed and implemented https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[spring-data-jpa-mongodb-expressions,role=external,window=_blank] a library that converts MongoDB queries into SQL queries. +
+- Created a custom s2i builder image for jdk15 on top of the __Openshift platform__. +
+- Applying best practices in DDD, TDD, and Clean Architecture +
 
 * *Architecture and Presales Team*: +
-Working on the Technical presales team to design, document, architect,
-and price software solutions as a response to RFPs.
+Working on the Technical presales team to design, document, architect, and price software solutions as a response to RFPs.
 
 * *Muqeem (muqeem.sa)/Premium Residency (saprc.gov.sa)* : +
 A portal to allow companies to managing activities for its Residents in
@@ -60,6 +62,7 @@ We are building the next generation of Muqeem using Java, Spring Boot,
 Netflix SSO (eureka, zuul, hystrix, Ribbon etc… ), spring-amqp,
 RabbitMQ, Redis, Docker, Microservice architecture and wiremock/Castle
 Mock. +
++
 __Using:__ Java 8, Kotlin, Spring Boot (Using JHipster microservice), JWT,
 Quartz, JPA, RabbitMQ, Redis, SQL Server, Unit & Integration testing,
 Docker and using atlassian stack.
@@ -68,6 +71,7 @@ A portal for Public Transport Authority (PTA), it is used to give
 permission and register activities related to the Marine section in PTA,
 My role mainly to integrate with Companies Billing System and PTA
 billing System. +
++
 _Using:_ Java 8, Spring Boot (with Spring Data JPA, Security, REST),
 Hibernate, SQL Server, Apache Tomcat 8 in the backend to expose the app
 as a secured API, Angular 4 in the frontend and IBM RTC for
@@ -76,6 +80,7 @@ software-related aspects.
 A Portal that allows public users to query about car history (including
 accident history) and print a full report about it, My role mainly to
 integrate with Companies Billing System and PTA billing System. +
++
 _Using:_ Java 8, Spring Boot (Spring Data JPA, Security, REST), Hibernate,
 SQL Server, Apache Tomcat 8 in the backend to expose the app as a secure
 API, AngularJS 1.x in the frontend and IBM RTC for software-related
@@ -85,6 +90,7 @@ A portal for Saudi Commission for Tourism & National Heritage (SCTH),
 that allows Umrah visa holder to do tourism activities after finishing
 the Umrah program by changing the sponsor. (many integrations with NIC,
 Sejel is being included) +
++
 _Using:_ Java 8, Spring framework (Security, Data JPA, REST), Hibernate,
 SQL Server, Apache Tomcat 8 in the backend to expose the app as a secure
 API, AngularJS in the frontend, Rational Team Concert for SCM and
@@ -93,6 +99,7 @@ OpenShift (as a PoC); in a team of 3 Developers.
 Bashir is a compound project, consists of a mobile app that connects to
 REST service and a Portal to manage users, reports, statistics and other
 aspects. +
++
 _Using:_ Spring framework, (Core, Security, Data JPA), Hibernate,
 PrimeFaces 5.1 (JSF 2.2), Apache Tomcat 8, JBOSS 7.1 and MS SQL
 Server. +
@@ -104,16 +111,14 @@ TAMM is the project and group of services used by multiple user roles
 (Car Agencies, Show rooms, etc.) to connect theses users with the Saudi
 Arabia NIC, I am working on adding new features and maintaining the old
 features. +
++
 _Using:_ JSF 1.2/EJB 3.1, CDI, SOAP and REST services, JWT, JBOSS EAP 6.1
 and MS SQL Server.
 
-==== Senior Software Engineer => Team Leader
-
+==== Software Engineer / Team Leader
 ===== SiliconExpert Technologies - an Arrow Electronics Company
-
-==== Nov 2010 – Nov 2013
-
-==== Cairo, Egypt
+__Nov 2010 – Nov 2013 +
+Cairo, Egypt__
 
 * Headquartered in Santa Clara, is a leading supplier and innovator of
 best-in-class products and services for enterprise-wide electronic parts
@@ -176,12 +181,9 @@ optimization (SEO) and crawling for Ajax Applications.
 clients to consume these web services
 
 ==== Software Engineer
-
 ===== CyberSource a VISA Company
-
-==== April 2009 – Nov 2010
-
-==== Cairo, Egypt
+__April 2009 – Nov 2010 +
+Cairo, Egypt__
 
 * Headquartered in Mountain View, California, is a leading provider of
 electronic payment and risk management services
@@ -196,12 +198,9 @@ JBoss, Linux, Rational ClearCase and AccuRev
 Paymentech and APACS30 gateways
 
 ==== Software Engineer
-
 ===== ElRowad
-
-==== Jan 2009 – April 2009
-
-==== Cairo, Egypt
+__Jan 2009 – April 2009 +
+Cairo, Egypt__
 
 * Responsible for the Design and Implementation of company's own Stock
 Management software
