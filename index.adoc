@@ -8,11 +8,11 @@ of experience in software development and architecture. A deep
 researcher and a passionate learner in every aspect of his life, with
 good analytical and verbal skills. +
  +
-Contributed to a number of Open Source projects including Spring AMQP,
-Spring Data JPA, RabbitMQ Hop and castlemock. +
-Knowlege and experience in may programming Languages and ecosystems
-including Java, Kotlin, Scala, Groovy, Golang, C, Objective-C,
-Ruby(Rails, Sinatra), JavaScript, TypeScript, C# and others (see github)
+Contributed to a number of Open Source projects icon:github[] including `Spring AMQP`,
+`Spring Data JPA`, `RabbitMQ Hop` and `castlemock`. +
+Knowledge and experience in may programming Languages and ecosystems
+including `Java`, `Kotlin`, `Scala`, `Groovy`, `Golang`, `C`, `Objective-C`,
+`Ruby`(`Rails`, `Sinatra`), `JavaScript`, `TypeScript`, `C#` and others (see github)
 
 ****
 mhewedy@gmail.com
