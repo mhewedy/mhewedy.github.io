@@ -15,7 +15,7 @@ jobs:
         id: adocbuild
         uses: tonynv/asciidoctor-action@master
         with:
-          program: "asciidoctor --backend=html5 -o index.html index.adoc && asciidoctor-pdf -o mhewedy_cv.pdf index.adoc"
+          program: "asciidoctor --backend=html5 -o index.html index.adoc && asciidoctor-pdf -a allow-uri-read -o mhewedy_cv.pdf index.adoc"
       - name: Print execution time
         run: echo "Time ${{ steps.adocbuild.outputs.time }}"
       - name: Deploy docs to ghpages
