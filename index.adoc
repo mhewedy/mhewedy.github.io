@@ -1,6 +1,4 @@
 :icons: font
-:toc: left
-:toclevels: 3
 
 == Mohammad Hewedy http://mhewedy.github.io/mhewedy_cv.pdf[icon:download[],role=external,window=_blank]
 
@@ -327,7 +325,7 @@ criteria.
 * https://github.com/mhewedy/mego[mego icon:github[],role=external,window=_blank]
 The MS Exchange meeting organizer
 
-==== Volunteering Experience
+=== Volunteering Experience
 
 ==== Riyadh Java Meetup (Founder)
 April 2019 – Present +
@@ -335,6 +333,10 @@ Riyadh, Saudi Arabia
 
 * The Riyadh Java Meetup is a meetup concerted about Java and the JVM,
 with the main focus is on Spring framework and spring boot.
+
+==== k8s Araby Meetup (Co-founder)
+July 2020 – Present +
+Riyadh, Saudi Arabia
 
 === Languages
 
