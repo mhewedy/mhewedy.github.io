@@ -33,7 +33,7 @@ mhewedy@gmail.com
 
 === Work Experience
 
-==== Software Engineer / Lead / Solutions Architect
+==== Software Engineer / Team Leader / Solutions Architect
 ===== Elm
 __Nov 2013 – Present +
 Riyadh, Saudi Arabia__
@@ -90,7 +90,7 @@ TAMM is the project and group of services used by multiple user roles
 Arabia NIC, I am working on adding new features and maintaining the old
 features.
 
-.Technologies used including:
+.Technologies used including
 `Java` (__up to jdk15__), `Kotlin`, `Spring framework`, `Spring Boot`, `Spring Cloud`, `Netflix OSS`, `Hibernate`, `EJB`, `PrimeFaces`,
 `Angularjs`, `Angular`, `Redis`, `RabbitMQ`, `Apache Camel`, `Apache cxf` , `Apache Tomcat`, `JBoss AS`, `KeyCloak (IdM)`, `3Scale`,
 `Openshift`, `SQL Server`,  `Bitbucket`, `JIRA`, `Bamboo`, `Jenkins` and `IBM RTC`.
@@ -159,17 +159,14 @@ optimization (SEO) and crawling for Ajax Applications.
 __April 2009 – Nov 2010 +
 Cairo, Egypt__
 
-* Headquartered in Mountain View, California, is a leading provider of
-electronic payment and risk management services
-* Responsible for Design and implement ePayment Solutions
-* Worked with payment services like, Auth, Bill, Credit, Refund, many of
-PayPal Services and others
-* Develop solutions using `Java`, `C`, `Servlets`, `XML`, `XSLT`, `XPath`, `JPos`,
-`JBoss`, `Linux`, `Rational ClearCase` and `AccuRev`.
-* Fixed Major encoding issue in China PayEase gateway simulator
+Headquartered in Mountain View, California, is a leading provider of electronic payment and risk management services.
+
+* I was responsible for design and implement payment solutions.
+* Worked with payment services like, Auth, Bill, Credit, Refund, many of PayPal Services and others.
+* Develop solutions using `Java`, `C`, `Servlets`, `XML`, `XSLT`, `XPath`, `JPos`, `JBoss`, `Linux`, `Rational ClearCase` and `AccuRev`.
+* Fixed Major encoding issue in China PayEase gateway simulator.
 * Worked on many PayPal bug fixes. (PayPal EC and Button create service)
-* Worked on bug fixes for other Payment gateways as well including
-Paymentech and APACS30 gateways
+* Worked on bug fixes for other Payment gateways as well including Paymentech and APACS30 gateways.
 
 ==== Software Engineer
 ===== ElRowad
@@ -215,7 +212,7 @@ License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488
 === Skills
 
 * Good understanding of OOP & Functional style programming.
-* Behavior / Test Driven Development - Unit, Integration, System Testing.
+* Behavior / Test Driven Development - Unit, Integration, E2E Testing.
 * Agile Methodologies - Scrum, Kanban.
 * Good understanding of type theory and the programming paradigm.
 * Good knowledge about JVM echo system (`Kotlin`, `Groovy`, and `Scala`).
@@ -225,13 +222,13 @@ License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488
 * Java (Threading, Networking, JDBC, RMI, JPA).
 * Basic understanding of the some compilers architecture, e.g. `GCC`, `LLVM`, `GraalVM` and others.
 * Web (`JSP&Servlets`, `Struts`, `JSF`, `Freemarker`, MVC, Front-Controller, etc).
-* Distributed Programming (App Servers, EJB and JNDI) and messaging (`RabbitMQ`, 'Kafka', `JMS`, `Apache Camel`).
-* A good background in Web Services (SOAP-based and RESTful) and `XML` (`SAX`, `DOM`, `XSLT`, `XPath`).
+* Distributed Programming (App Servers, EJB and JNDI) and messaging (`RabbitMQ`, `Kafka`, `JMS`, `Apache Camel`).
+* A good background in Web Services (SOAP-based and REST) and `XML` (`SAX`, `DOM`, `XSLT`, `XPath`).
 * Good knowledge about the internals of Spring framework, Hibernate, Spring Security, Spring Data (JPA, Mongo), Spring Boot and Spring AMQP.
 * Experience Mobile Programming (Android /iPhone).
 * Experience with full-Stack Web Development (`Angular`, `Vue.js`, `Mustache.js`, and others).
 * Good understand parallelism and concurrency and related patterns (e.g. CSP) and its implementations in golang and kotlin.
-* Basic knowledge Linux programming (`syscalls`, `strace`, LKM, LSM, filesystems, namespaces and others).
+* Basic knowledge Linux programming (`syscalls`, LKM, LSM, filesystems, namespaces and others).
 * Basic understanding of the different storage types (object, block, file) and its use cases.
 * Basic understanding Hypervisors and containerization (the theory and practices).
 * Good understanding of RDBMS, NoSQL databases, Big Data and Database Sharding techniques.
@@ -239,10 +236,10 @@ License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488
 * Basic understanding of Data Engineering processes.
 * Experience with Searching solutions (`Apache Lucene/Solr`).
 * Familiarity with Big Data and Stream processing solutions such as `Apache Hadoop`, `Hive`, `Pig`, and `Apache Spark`.
-* Experience in RDBMS and ORM - `Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`.
+* Experience in different RDBMS - `Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`.
 * Experience in NoSQL - `MongoDB`.
 * Basic understanding of ISO 8601, Unicode and other related standards.
-* Basic understanding of OSI model and related protocols (`TCP`, `UDP`, `DNS`, `ARP`, `FTP`, `SSH`, `TLS`), and basic knowledge about networking tools like iptables, iproute2, wireshark, tcpdump, and more.
+* Basic understanding of OSI model and related protocols (`TCP`, `UDP`, `DNS`, `ARP`, `FTP`, `SSH`, `TLS`), and basic knowledge about networking tools like iptables, wireshark, tcpdump, and more.
 * Good understanding of digital cryptography.
 * Good understanding of ESB, EAI, Queues, BPM, and related enterprise solutions and patterns`
 * Hands-on experience in `Jenkins`, `Bitbucket` pipelines, `Docker`, `Docker Compose`, `Kubernetes`, `GCP` and `AWS`.
