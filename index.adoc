@@ -2,11 +2,11 @@
 :pdf-theme: pdf-theme.yml
 
 ifeval::["{backend}" == "html5"]
-== Mohammad Hewedy http://mhewedy.github.io/mhewedy_cv.pdf[icon:download[],role=external,window=_blank]
+== Mohammad Hewedy http://mhewedy.github.io/mhewedy_cv.pdf[icon:download[0.5x],role=external,window=_blank]
 endif::[]
 
 ifeval::["{backend}" == "pdf"]
-== Mohammad Hewedy
+== Mohammad Hewedy http://mhewedy.github.io/[icon:globe-africa[0.5x],role=external,window=_blank]
 endif::[]
 
 === Solutions Architect
