@@ -297,7 +297,7 @@ Riyadh, Saudi Arabia__
 The Riyadh Java Meetup is a meetup concerted about Java and the JVM,
 with the main focus is on Spring framework and spring boot.
 
-==== Kubernetes بالعربي (Co-founder)
+==== Kubernetes in Arabic (belaraby) (Co-founder)
 __July 2020 – Present +
 Riyadh, Saudi Arabia__
 
