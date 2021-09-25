@@ -225,7 +225,7 @@ License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488
 * Java (Threading, Networking, JDBC, RMI, JPA).
 * Basic understanding of the some compilers architecture, e.g. `GCC`, `LLVM`, `GraalVM` and others.
 * Web (`JSP&Servlets`, `Struts`, `JSF`, `Freemarker`, MVC, Front-Controller, etc).
-* Distributed Programming (App Servers, EJB and JNDI) and messaging (`RabbitMQ`, `JMS`, `Apache Camel`).
+* Distributed Programming (App Servers, EJB and JNDI) and messaging (`RabbitMQ`, 'Kafka', `JMS`, `Apache Camel`).
 * A good background in Web Services (SOAP-based and RESTful) and `XML` (`SAX`, `DOM`, `XSLT`, `XPath`).
 * Good knowledge about the internals of Spring framework, Hibernate, Spring Security, Spring Data (JPA, Mongo), Spring Boot and Spring AMQP.
 * Experience Mobile Programming (Android /iPhone).
