@@ -229,7 +229,7 @@ License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488
 [cols="6,2",frame=none, grid=none]
 |===
 |Technical reviewer for
-https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/[“Certified Kubernetes Application Developer (CKAD) Study Guide”,role=external,window=_blank]
+https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/["Certified Kubernetes Application Developer (CKAD) Study Guide",role=external,window=_blank]
 book from O’Reilly.
 
 a|image::https://learning.oreilly.com/library/cover/9781492083726/250w/[ckad study guide,80,80]
