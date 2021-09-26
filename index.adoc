@@ -226,13 +226,13 @@ License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488
 
 === Technical Reviews
 
-[cols="9,1",frame=none, grid=none]
+[cols="6,2",frame=none, grid=none]
 |===
 |Technical reviewer for
 https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/[“Certified Kubernetes Application Developer (CKAD) Study Guide”,role=external,window=_blank]
 book from O’Reilly.
 
-a|image::https://learning.oreilly.com/library/cover/9781492083726/250w/[ckad study guide,100,100]
+a|image::https://learning.oreilly.com/library/cover/9781492083726/250w/[ckad study guide,110,100]
 |===
 
 === Open Source Projects icon:github[]
