@@ -44,15 +44,15 @@ the Saudi Ministry of Interior. +
 Designing and implementing government services while practicing agile methodology to achieve high velocity in delivery in multiple projects.
 
 TAMM Platform::
-Participating in the design, architecture, and implementation of TAMM Platform (TAMM v2.0).
+Participating in the architecture, design, and implementation of TAMM Platform (TAMM v2.0).
 +
 .Some achievements include
 [square]
 - Participated in the Tamm Revamp docs project.
 - Participated in establishing the software practices used by the team (PR, Code Review, etc...) to assure high quality for the produced software.
-- Participated in the design and architecture of the Tamm Platform.
+- Participated in the architecture and design of the Tamm Platform.
 - Co-Designed and implemented of `async-await` concurrency library on top of Java/Spring concurrency primitives.
-- Co-Designed and implemented https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[`Spring Data JPA MongoDB Expressions`,role=external,window=_blank] a library that converts MongoDB queries into SQL.
+- Co-Designed and implemented https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[`Spring Data JPA MongoDB Expressions` icon:external-link[],role=external,window=_blank] a library that converts MongoDB queries into SQL.
 - Created a custom `s2i` builder image for `jdk15` on top of the `Openshift`.
 - Applying best practices in DDD, TDD, and Clean Architecture
 
