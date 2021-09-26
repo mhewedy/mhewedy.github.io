@@ -14,7 +14,7 @@ endif::[]
 A confident, self-motivated software architect with more than 13 year of experience in software Engineering and Architecture.
 A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills. +
  +
-*Contributed* icon:github[] to a number of Open Source projects including
+*A Contributer* icon:github[] to a number of Open Source projects including
 https://github.com/spring-projects/spring-amqp/pulls?q=is%3Apr+author%3Amhewedy[`Spring AMQP`,role=external,window=_blank],
 https://github.com/spring-projects/spring-data-jpa/pulls?q=is%3Apr+author%3Amhewedy[`Spring Data JPA`,role=external,window=_blank],
 https://github.com/castlemock/castlemock/pulls?q=is%3Apr+author%3Amhewedy[`Castlemock`,role=external,window=_blank],
