@@ -43,52 +43,41 @@ secure electronic services, and has been in existence since 1988 as a technical 
 the Saudi Ministry of Interior. +
 Designing and implementing government services while practicing agile methodology to achieve high velocity in delivery in multiple projects.
 
-TAMM Platform::
-Participating in the architecture, design, and implementation of TAMM Platform (TAMM v2.0).
+Tamm Platform::
+Tamm service helps vehicles' owners in Saudi Arabia to get all updated information of their respective vehicles from their governmental sources. + 
+Participating in the architecture, design, and implementation of Tamm Platform (Tamm v2.0).
 +
 .Some achievements include
 [square]
 - Participated in the Tamm Revamp docs project.
-- Participated in establishing the software practices used by the team (PR, Code Review, etc...) to assure high quality for the produced software.
+- Participated in establishing the software practices used by the team (Pull Requests, Code Review, Unit Tests, etc...) to assure high quality of the software.
+- Applying best practices in DDD, TDD, and Clean Architecture
 - Participated in the architecture and design of the Tamm Platform.
 - Co-Designed and implemented of `async-await` concurrency library on top of Java/Spring concurrency primitives.
-- Co-Designed and implemented https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[`Spring Data JPA MongoDB Expressions` icon:external-link[],role=external,window=_blank] a library that converts MongoDB queries into SQL.
+- Co-Designed and implemented https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[`Spring Data JPA MongoDB Expressions`icon:external-link[0.5x],role=external,window=_blank] a library that converts MongoDB queries into SQL.
 - Created a custom `s2i` builder image for `jdk15` on top of the `Openshift`.
-- Applying best practices in DDD, TDD, and Clean Architecture
 
 Architecture and Presales Team::
-Working on the Technical presales team to design, document, architect, and price software solutions as a response to RFPs.
-Successfully delivered winning proposals.
+Working on the Technical presales team to design, document, architect, and price software solutions as a response to RFPs. +
+Successfully delivered multiple winning proposals.
 
-Muqeem/Premium Residency::
-A portal to allow companies to managing activities for its Residents in saudi arabia with cooperation with Jawazat (General Directorate of Passports).
-We are building the next generation of Muqeem using __Microservice architecture__.
+Muqeem::
+Muqeem service allows organizations to review its resident workers data and complete their transactions online, anytime and anywhere. + 
+We've built the next generation of Muqeem based on the __Microservice Architecture__ using Spring Cloud.
 
 Marine::
 A portal for Public Transport Authority (PTA), it is used to give permission and register activities related to the Marine section in PTA,
-My role mainly to integrate with Companies Billing System and PTA billing System.
+My role mainly to integrate with Elm Billing System and PTA billing System.
 
 Mojaz::
-A Portal that allows public users to query about car history (including
-accident history) and print a full report about it, My role mainly to
-integrate with Companies Billing System and PTA billing System.
+A Portal that allows public users to query about car history (including accident history) and print a full report about it, My role mainly to integrate with Elm Billing System.
 
 ETV::
-A portal for Saudi Commission for Tourism & National Heritage (SCTH),
-that allows Umrah visa holder to do tourism activities after finishing
-the Umrah program by changing the sponsor. (many integrations with NIC,
-Sejel is being included)
+A portal for Saudi Commission for Tourism & National Heritage (SCTH), that allows Umrah visa holder to do tourism activities after finishing
+the Umrah program by changing the sponsor. (Many integrations with NIC, Sejel is being included)
 
 Basher::
-Bashir is a compound project, consists of a mobile app that connects to
-REST service and a Portal to manage users, reports, statistics and other
-aspects.
-
-TAMM::
-TAMM is the project and group of services used by multiple user roles
-(Car Agencies, Show rooms, etc.) to connect theses users with the Saudi
-Arabia NIC, I am working on adding new features and maintaining the old
-features.
+Basher service allows traffic officers from registring accidents and violations and queries about them.
 
 .Technologies used including
 `Java` (__up to jdk15__), `Kotlin`, `Spring framework`, `Spring Boot`, `Spring Cloud`, `Netflix OSS`, `Hibernate`, `EJB`, `PrimeFaces`,
@@ -144,10 +133,8 @@ MainSearch::
 A Lucene Manager tool; a tool with a Web-based interface to allow users to search/create/edit/delete indexes.
 
 Design Center::
-Web Application for Electronic Engineers to search for reference designs
-and other staff they need in designing Electronic Circuits. +
-The work includes investigating on the issue of Search engine
-optimization (SEO) and crawling for Ajax Applications.
+Web Application for Electronic Engineers to search for reference designs and other staff they need in designing Electronic Circuits. +
+The work includes investigating on the issue of Search engine optimization (SEO) and crawling for Ajax Applications.
 
 .Technologies used including:
 `EJB`, `JPA`, `Servlets`, `JSPs`, Custom tags, Filters, `XML`, `JAX-WS`, `Apache Axis`, `GWT`, `JSON`, `JAX-WS`, `Javascript`,
@@ -212,46 +199,41 @@ License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488
 === Skills
 
 * Good understanding of OOP & Functional style programming.
-* Behavior / Test Driven Development - Unit, Integration, E2E Testing.
+* Good understanding Test Driven Development and Unit, Integration, E2E Testing.
 * Agile Methodologies - Scrum, Kanban.
 * Good understanding of type theory and the programming paradigm.
-* Good knowledge about JVM echo system (`Kotlin`, `Groovy`, and `Scala`).
-* Good knowledge about other languages as well (`C`, `Objective-C`, `Ruby`, `RoR`, `Golang`, and `Nodejs`).
-* Background knowledge in other languages as well (`C#`, `VB.net`, `C++`, `PL-SQL`).
 * Good knowledge in Linux Configuration & shell scripting.
-* Java (Threading, Networking, JDBC, RMI, JPA).
 * Basic understanding of the some compilers architecture, e.g. `GCC`, `LLVM`, `GraalVM` and others.
-* Web (`JSP&Servlets`, `Struts`, `JSF`, `Freemarker`, MVC, Front-Controller, etc).
-* Distributed Programming (App Servers, EJB and JNDI) and messaging (`RabbitMQ`, `Kafka`, `JMS`, `Apache Camel`).
-* A good background in Web Services (SOAP-based and REST) and `XML` (`SAX`, `DOM`, `XSLT`, `XPath`).
-* Good knowledge about the internals of Spring framework, Hibernate, Spring Security, Spring Data (JPA, Mongo), Spring Boot and Spring AMQP.
-* Experience Mobile Programming (Android /iPhone).
+* Distributed Programming, messaging, stream processing and data pipelines (`RabbitMQ`, `Kafka`, `JMS` and `Apache NiFi`).
+* Good background in Web Services (SOAP-based and REST) and `XML` (`SAX`, `DOM`, `XSLT`, `XPath`).
+* Experience Mobile Programming (Android / iOS).
 * Experience with full-Stack Web Development (`Angular`, `Vue.js`, `Mustache.js`, and others).
 * Good understand parallelism and concurrency and related patterns (e.g. CSP) and its implementations in golang and kotlin.
-* Basic knowledge Linux programming (`syscalls`, LKM, LSM, filesystems, namespaces and others).
+* Basic knowledge Linux programming (syscalls, filesystems, namespaces and others).
 * Basic understanding of the different storage types (object, block, file) and its use cases.
 * Basic understanding Hypervisors and containerization (the theory and practices).
 * Good understanding of RDBMS, NoSQL databases, Big Data and Database Sharding techniques.
-* Basic knowledge about NoSQL solutions such as Apache `Cassandra` and `Couchbase`.
-* Basic understanding of Data Engineering processes.
-* Experience with Searching solutions (`Apache Lucene/Solr`).
-* Familiarity with Big Data and Stream processing solutions such as `Apache Hadoop`, `Hive`, `Pig`, and `Apache Spark`.
+* Basic knowledge and experience about NoSQL solutions such as `MongoDB`, `Redis`, `Cassandra` and `Couchbase`.
+* Experience with Searching solutions (`Apache Lucene`/`Solr`).
+* Familiarity with Big Data and Stream processing solutions such as `Apache Hadoop`, `Hive`, and `Apache Spark`.
 * Experience in different RDBMS - `Oracle`, `SQL Server`, `MySQL`, `PostgreSQL`.
-* Experience in NoSQL - `MongoDB`.
-* Basic understanding of ISO 8601, Unicode and other related standards.
+* Basic understanding of Unicode and other related char encoding standards.
 * Basic understanding of OSI model and related protocols (`TCP`, `UDP`, `DNS`, `ARP`, `FTP`, `SSH`, `TLS`), and basic knowledge about networking tools like iptables, wireshark, tcpdump, and more.
-* Good understanding of digital cryptography.
-* Good understanding of ESB, EAI, Queues, BPM, and related enterprise solutions and patterns`
-* Hands-on experience in `Jenkins`, `Bitbucket` pipelines, `Docker`, `Docker Compose`, `Kubernetes`, `GCP` and `AWS`.
 * Understanding of `OIDC` and `OAuth 2.0` protocols.
+* Good understanding of digital cryptography.
+* Hands-on experience in `Jenkins`, `Ansible`, `Bitbucket` pipelines, `Docker`, `Docker Compose`, `Kubernetes`, `k3s`, `GCP` and `AWS`.
 * Basic knowledge about Machine Learning
 
 === Technical Reviews
--   Technical reviewer for
+
+[cols="9,1",frame=none, grid=none]
+|===
+|Technical reviewer for
 https://www.oreilly.com/library/view/certified-kubernetes-application/9781492083726/[“Certified Kubernetes Application Developer (CKAD) Study Guide”,role=external,window=_blank]
-book from O’Reilly. +
-+
-image::https://learning.oreilly.com/library/cover/9781492083726/250w/[ckad study guide,120,100]
+book from O’Reilly.
+
+|image::https://learning.oreilly.com/library/cover/9781492083726/250w/[ckad study guide,100,100]
+|===
 
 === Open Source Projects icon:github[]
 
@@ -304,4 +286,3 @@ Where we discuss topics related to Kubernetes and its ecosystem
 
 * *Arabic* - Native
 * *English* - Professional working proficiency
-
