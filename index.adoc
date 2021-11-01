@@ -241,7 +241,7 @@ a|image::https://learning.oreilly.com/library/cover/9781492083726/250w/[ckad stu
 Allows you to use the MongoDB query syntax to query your relational database.
 
 * https://github.com/ci-pipeline/ci-pipeline[ci-pipeline icon:github[],role=external,window=_blank]
-Opinionated Jenkins Pipeline in YAML
+Opinionated Devops Pipeline in YAML based on Jenkins.
 
 * https://github.com/mhewedy/vermin[vermin icon:github[],role=external,window=_blank]
 The smart virtual machines manager.
