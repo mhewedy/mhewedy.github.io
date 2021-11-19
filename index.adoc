@@ -45,7 +45,7 @@ Designing and implementing government services while practicing agile methodolog
 
 Tamm Platform::
 Tamm service helps vehicles' owners in Saudi Arabia to get all updated information of their respective vehicles from their governmental sources. + 
-Participating in the architecture, design, and implementation of Tamm Platform (Tamm v2.0).
+Participating in the architecture, design, and implementation of Tamm Platform (Tamm v2.0) utilizing OIDC (Keycloak), Api gateway (3Scale) and Openshift.
 +
 .Some achievements include
 [square]
