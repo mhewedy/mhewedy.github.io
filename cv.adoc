@@ -6,7 +6,7 @@ ifeval::["{backend}" == "html5"]
 endif::[]
 
 ifeval::["{backend}" == "pdf"]
-== Mohammad Hewedy http://mhewedy.github.io/[icon:globe-africa[0.5x],role=external,window=_blank]
+== Mohammad Hewedy http://mhewedy.github.io/cv.html[icon:globe-africa[0.5x],role=external,window=_blank]
 endif::[]
 
 === Solutions Architect
