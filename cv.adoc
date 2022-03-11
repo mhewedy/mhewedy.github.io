@@ -82,7 +82,7 @@ Basher service allows traffic officers from registring accidents and violations 
 .Technologies used including
 `Java` (__up to jdk17__), `Kotlin`, `Spring framework`, `Spring Boot`, `Spring Cloud`, `Netflix OSS`, `Hibernate`, `EJB`, `PrimeFaces`,
 `Angularjs`, `Angular`, `Redis`, `RabbitMQ`, `Apache Camel`, `Apache cxf` , `Apache Tomcat`, `JBoss AS`, `KeyCloak (IdM)`, `3Scale`,
-`Openshift`, `SQL Server`,  `Bitbucket`, `JIRA`, `Bamboo`, `Jenkins` and `IBM RTC`.
+`Openshift`, `SQL Server`,  `Bitbucket`, `JIRA`, `Bamboo`, `Jenkins`, `ArgoCD`, `helm` and `IBM RTC`.
 
 ==== Software Engineer / Team Leader
 ===== SiliconExpert Technologies - an Arrow Electronics Company
