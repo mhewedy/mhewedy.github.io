@@ -222,7 +222,7 @@ License: https://candidate.peoplecert.org/MobileReports.aspx?id=68494EE721B91488
 * Understanding of `OIDC` and `OAuth 2.0` protocols.
 * Good understanding of digital cryptography.
 * Hands-on experience in `Jenkins`, `Ansible`, `Bitbucket` pipelines, `Docker`, `Docker Compose`, `Kubernetes`, `k3s`, `GCP` and `AWS`.
-* Basic knowledge about Machine Learning
+* Basic knowledge about Data analysis using Python `Pandas`.
 
 === Technical Reviews
 
