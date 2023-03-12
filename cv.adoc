@@ -52,7 +52,7 @@ Participating in the architecture, design, and implementation of Tamm Platform (
 [square]
 - Participated in the Tamm Revamp docs project (Documenting and reverse engineering the As is).
 - Participated in establishing the software practices used by the team (Pull Requests, Code Review, Unit Tests, etc...) to assure high quality of the software.
-- Building a Modular Monolith architecture with each bounded-context represented as a module in the systme.
+- Building a Modular Monolith architecture with each module is about a bounded-context with clear interface with the other modules.
 - Participated in the Architecture and Design of the Tamm Platform.
 - Co-Designed and implemented of `async-await` concurrency library on top of Java/Spring concurrency primitives.
 - Co-Designed and implemented https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[`Spring Data JPA MongoDB Expressions` icon:external-link[0.5x],role=external,window=_blank] a library that converts MongoDB queries into SQL.
