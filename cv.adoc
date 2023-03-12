@@ -11,7 +11,7 @@ endif::[]
 
 === Solutions Architect
 
-A confident, self-motivated software architect with more than 14 year of experience in software Engineering and Architecture.
+A confident, self-motivated software architect with more than 15 year of experience in software Engineering and Architecture.
 A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills. +
  +
 *A Contributer* icon:github[] to a number of Open Source projects including
@@ -49,10 +49,10 @@ Participating in the architecture, design, and implementation of Tamm Platform (
 +
 .Some achievements include
 [square]
-- Participated in the Tamm Revamp docs project.
+- Participated in the Tamm Revamp docs project (Documenting and reverse engineering the As is).
 - Participated in establishing the software practices used by the team (Pull Requests, Code Review, Unit Tests, etc...) to assure high quality of the software.
-- Applying best practices in DDD, TDD, and Clean Architecture
-- Participated in the architecture and design of the Tamm Platform.
+- Building a Modular Monolith architecture with each bounded-context represented as a module in the systme.
+- Participated in the Architecture and Design of the Tamm Platform.
 - Co-Designed and implemented of `async-await` concurrency library on top of Java/Spring concurrency primitives.
 - Co-Designed and implemented https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[`Spring Data JPA MongoDB Expressions` icon:external-link[0.5x],role=external,window=_blank] a library that converts MongoDB queries into SQL.
 - Created a custom `s2i` builder image for `jdk15` on top of the `Openshift`.
