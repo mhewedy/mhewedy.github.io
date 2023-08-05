@@ -21,7 +21,7 @@ https://github.com/liquibase/liquibase/pulls?q=is%3Apr+author%3Amhewedy[`liquiba
 https://github.com/castlemock/castlemock/pulls?q=is%3Apr+author%3Amhewedy[`Castlemock`,role=external,window=_blank],
 and https://github.com/pulls?q=is%3Apr+author%3Amhewedy[others,role=external,window=_blank]. +
 Knowledge and experience in may programming Languages and ecosystems including `Java`, `Kotlin`, `Scala`, `Groovy`, `Golang`, `C`, `Objective-C`, 
-`Python`, `Ruby`, `Nodejs`, `JavaScript`, `TypeScript`, `C#`, `Elixir` and others.
+`Python`, `Ruby`, `Nodejs`, `JavaScript`, `TypeScript`, `C#`, `Elixir`, `Erlang/OTP` and others.
 
 .Contact Information
 ****
