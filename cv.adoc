@@ -34,7 +34,7 @@ mhewedy@gmail.com
 
 === Work Experience
 
-==== Software Engineer / Team Leader / Solutions Architect
+==== Solutions Architect / Tech Lead
 ===== Elm
 __Nov 2013 – Present +
 Riyadh, Saudi Arabia__
@@ -43,6 +43,11 @@ Elm Company is a Saudi Joint Stock Company owned by Saudi Public Investment Fund
 secure electronic services, and has been in existence since 1988 as a technical research and development lab for
 the Saudi Ministry of Interior. +
 Designing and implementing government services while practicing agile methodology to achieve high velocity in delivery in multiple projects.
+
+Mazadat::
+An e-auction service that is provided to one of ELM clients. it is built on top of many successful systems built by ELM.
++
+The system is built and deployed on OCP and built-in Paas Services provided by the Platform Engineering team in coordination with Delivery teams.
 
 Tamm Platform::
 Tamm service helps vehicles' owners in Saudi Arabia to get all updated information of their respective vehicles from their governmental sources. + 
