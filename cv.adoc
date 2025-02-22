@@ -246,6 +246,9 @@ a|image::https://learning.oreilly.com/library/cover/9781492083726/250w/[ckad stu
 * https://github.com/mhewedy/spring-data-jpa-mongodb-expressions[Spring Data JPA MongoDB Expressions icon:github[],role=external,window=_blank]
 Allows you to use the MongoDB query syntax to query your relational database.
 
+* https://github.com/mhewedy/convo[convo icon:github[],role=external,window=_blank]
+The Conversation Repository abstracts how to hold data between multiple API calls.
+
 * https://github.com/ci-pipeline/ci-pipeline[ci-pipeline icon:github[],role=external,window=_blank]
 Opinionated Devops Pipeline in YAML based on Jenkins.
 
