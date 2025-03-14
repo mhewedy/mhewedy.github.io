@@ -84,8 +84,8 @@ Basher::
 Basher service allows traffic officers from registring accidents and violations and queries about them.
 
 .Technologies used including
-`Java` (__up to jdk17__), `Kotlin`, `Spring framework`, `Spring Boot`, `Spring Cloud`, `Netflix OSS`, `Hibernate`, `EJB`, `PrimeFaces`,
-`Angularjs`, `Angular`, `Redis`, `RabbitMQ`, `Apache Camel`, `Apache cxf` , `Apache Tomcat`, `JBoss AS`, `KeyCloak (IdM)`, `3Scale`,
+`Java`, `Kotlin`, `Spring framework`, `Spring Boot`, `Spring Cloud`, `Netflix OSS`, `Hibernate`, `EJB`, `PrimeFaces`,
+`Angularjs`, `Angular`, `Redis`, `RabbitMQ`, `Apache Camel`, `Apache CXF` , `Apache Tomcat`, `JBoss AS`, `KeyCloak (IdM)`, `3Scale`,
 `Openshift`, `SQL Server`,  `Bitbucket`, `JIRA`, `Bamboo`, `Jenkins`, `ArgoCD`, `helm` and `IBM RTC`.
 
 ==== Software Engineer / Team Leader
