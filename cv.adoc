@@ -11,16 +11,17 @@ endif::[]
 
 === Lead and Solutions Architect
 
-A confident, self-motivated software Lead and Architect with more than 15 year of experience in software Engineering and Architecture.
+A confident, self-motivated software Lead and Architect with more than 16 years of experience in Software Engineering and Architecture.
 A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills. +
  +
-*A Contributer* icon:github[] to a number of Open Source projects including
-https://github.com/spring-projects/spring-amqp/pulls?q=is%3Apr+author%3Amhewedy[`Spring AMQP`,role=external,window=_blank],
-https://github.com/spring-projects/spring-data-jpa/pulls?q=is%3Apr+author%3Amhewedy[`Spring Data JPA`,role=external,window=_blank],
+*Contributor* icon:github[] to a number of Open Source projects including
+https://github.com/search?q=org%3Aspring-projects%20Mohammad%20Hewedy&type=code[`Spring framework`,role=external,window=_blank] 
+(https://github.com/spring-projects/spring-amqp/pulls?q=is%3Apr+author%3Amhewedy[`Spring AMQP`,role=external,window=_blank],
+https://github.com/spring-projects/spring-data-jpa/pulls?q=is%3Apr+author%3Amhewedy[`Spring Data JPA`,role=external,window=_blank]), 
 https://github.com/liquibase/liquibase/pulls?q=is%3Apr+author%3Amhewedy[`liquibase`,role=external,window=_blank],
 https://github.com/castlemock/castlemock/pulls?q=is%3Apr+author%3Amhewedy[`Castlemock`,role=external,window=_blank],
 and https://github.com/pulls?q=is%3Apr+author%3Amhewedy[others,role=external,window=_blank]. +
-Knowledge and experience in may programming Languages and ecosystems including `Java`, `Kotlin`, `Scala`, `Groovy`, `Golang`, `C`, `Objective-C`, 
+Knowledge and experience in many programming Languages and ecosystems including `Java`, `Kotlin`, `Scala`, `Groovy`, `Golang`, `C`, `Objective-C`, 
 `Python`, `Ruby`, `Nodejs`, `JavaScript`, `TypeScript`, `C#`, `Elixir`, `Erlang/OTP` and others.
 
 .Contact Information
@@ -39,8 +40,8 @@ mhewedy@gmail.com
 __Nov 2013 – Present +
 Riyadh, Saudi Arabia__
 
-Elm Company is a Saudi Joint Stock Company owned by Saudi Public Investment Fund (PIF), it is specialized in providing
-secure electronic services, and has been in existence since 1988 as a technical research and development lab for
+Elm Company is a Saudi Joint Stock Company owned by the Saudi Public Investment Fund (PIF), it specializes in providing
+secure electronic services and has been in existence since 1988 as a technical research and development lab for
 the Saudi Ministry of Interior. +
 Designing and implementing government services while practicing agile methodology to achieve high velocity in delivery in multiple projects.
 
@@ -50,14 +51,14 @@ An e-auction service that is provided to one of ELM clients. it is built on top 
 The system is built and deployed on OCP and built-in Paas Services provided by the Platform Engineering team in coordination with Delivery teams.
 
 Tamm Platform::
-Tamm service helps vehicles' owners in Saudi Arabia to get all updated information of their respective vehicles from their governmental sources. + 
-Participating in the architecture, design, and implementation of Tamm Platform (Tamm v2.0) utilizing OIDC (Keycloak), Api gateway (3Scale) and Openshift.
+Tamm service helps vehicle owners in Saudi Arabia to get all updated information of their respective vehicles from their governmental sources. + 
+Participating in the architecture, design, and implementation of the Tamm Platform (Tamm v2.0) utilizing OIDC (Keycloak), API gateway (3Scale), and Openshift.
 +
 .Some achievements include
 [square]
-- Participated in the Tamm Revamp docs project (Documenting and reverse engineering the As is).
-- Participated in establishing the software practices used by the team (Pull Requests, Code Review, Unit Tests, etc...) to assure high quality of the software.
-- Building a Modular Monolith architecture with each module is about a bounded-context with clear interface with the other modules.
+- Participated in the Tamm Revamp docs project (Documenting and reverse engineering the As-is).
+- Participated in establishing the software practices used by the team (Pull Requests, Code Review, Unit Tests, etc...) to ensure the high quality of the software.
+- Building a Modular Monolith architecture with each module is about a bounded context with a clear interface with the other modules.
 - Participated in the Architecture and Design of the Tamm Platform.
 - Created a custom `s2i` builder image for `jdk15` on top of the `Openshift`.
 
