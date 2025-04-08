@@ -9,7 +9,7 @@ ifeval::["{backend}" == "pdf"]
 == Mohammad Hewedy http://mhewedy.github.io/cv.html[icon:globe-africa[0.5x],role=external,window=_blank]
 endif::[]
 
-=== Lead and Solutions Architect
+=== Technical Leader and Solutions Architect
 
 A confident, self-motivated software Lead and Architect with more than 16 years of experience in Software Engineering and Architecture.
 A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills. +
