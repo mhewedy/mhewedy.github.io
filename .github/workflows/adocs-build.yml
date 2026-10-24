@@ -10,16 +10,17 @@ jobs:
     name: generate html and push to to gh-pages
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Get build container
-        id: adocbuild
-        uses: tonynv/asciidoctor-action@master
+        uses: actions/checkout@v4
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          program: "asciidoctor --backend=html5 -o cv.html cv.adoc &&
-                    asciidoctor-pdf -a allow-uri-read -o mhewedy_cv.pdf cv.adoc &&
-                    asciidoctor --backend=html5 -o index.html index.adoc"
-      - name: Print execution time
-        run: echo "Time ${{ steps.adocbuild.outputs.time }}"
+          ruby-version: '3.3'
+      - name: Build html and pdf
+        run: |
+          gem install asciidoctor asciidoctor-pdf
+          asciidoctor --backend=html5 -o cv.html cv.adoc
+          asciidoctor-pdf -a allow-uri-read -o mhewedy_cv.pdf cv.adoc
+          asciidoctor --backend=html5 -o index.html index.adoc
       - name: Deploy docs to ghpages
         uses: peaceiris/actions-gh-pages@v3
         with:
