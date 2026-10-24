@@ -11,7 +11,7 @@ endif::[]
 
 === Technical Leader and Solutions Architect
 
-A confident, self-motivated software Lead and Architect with more than 16 years of experience in Software Engineering and Architecture.
+A confident, self-motivated software Lead, Manager and Architect with more than 18 years of experience in Software Engineering and Architecture.
 A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills. +
  +
 *Contributor* icon:github[] to a number of Open Source projects including
