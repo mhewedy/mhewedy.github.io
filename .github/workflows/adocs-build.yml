@@ -17,7 +17,8 @@ jobs:
           ruby-version: '3.3'
       - name: Build html and pdf
         run: |
-          gem install asciidoctor asciidoctor-pdf
+          gem install asciidoctor
+          gem install asciidoctor-pdf -v 2.3.19
           asciidoctor --backend=html5 -o cv.html cv.adoc
           asciidoctor-pdf -a allow-uri-read -o mhewedy_cv.pdf cv.adoc
           asciidoctor --backend=html5 -o index.html index.adoc
